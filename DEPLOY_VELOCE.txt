@@ -1,0 +1,41 @@
+🚀 DEPLOY VELOCE - 30 SECONDI
+==============================
+
+1. INSTALLA VERCEL (prima volta):
+   npm install -g vercel
+
+2. LOGIN (prima volta):
+   vercel login
+   → Email → Click link → Done
+
+3. DEPLOY:
+   vercel --prod
+
+FATTO! ✅
+
+URL: https://francesco-salvatori-portfolio.vercel.app
+
+---
+
+ALTERNATIVA - GITHUB:
+--------------------
+git push origin main
+→ Import su vercel.com/new
+
+---
+
+DOCUMENTAZIONE COMPLETA:
+-----------------------
+📖 START_HERE.md           → Guida passo-passo
+📖 README_DEPLOY.md        → Deploy dettagliato
+📖 VERCEL_TROUBLESHOOT.md  → Se hai problemi
+
+---
+
+STATUS: 🟢 PRONTO!
+
+COMANDO:
+--------
+vercel --prod
+
+GO! 🎨✨
